@@ -1,0 +1,4 @@
+baseURL = 'https://arvxndrana.github.io'
+languageCode = 'en-us'
+title = 'arvind.'
+theme = 'ananke'
