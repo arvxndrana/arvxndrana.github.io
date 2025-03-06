@@ -1,6 +1,6 @@
 +++
 date = '2025-02-27T18:28:51+05:45'
-draft = true
+draft = false
 title = 'My Time on Linux'
 +++
 
