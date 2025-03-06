@@ -6,15 +6,15 @@ title = 'My Time on Linux'
 
 I have been using Linux for about 2 and a half years and I have learned so much about myself.
 
-I am now not afraid to man pages, no longer scared of the black box called terminal.
+Nowadays, I am no longer afraid of man pages, no longer scared of the black box called terminal.
 
-These days were not easy and it certainly is not easy to use linux in my current setup but, i can endure it.
+To achieve this mindset was not easy, and it still is not easy to use Linux in my current setup. But, I can endure it.
 
 I specifically made my laptop (on which i installed linux) be so difficult that i don't want to use it anymore and it is... working somewhat.
 
-I am following the mantra of "neovim and dwm got me out of depression." and will see if this works in the future and update you.
+Using the elitist window manager called dwm and following the religion of neovim is now my current gig.
 
-Currently, I am kinda feeling bad writing this blog in a terminal without any syntax highlighting but, i can also say that it does not distract me anymore.
+Currently, I am kinda feeling bad writing this blog in a terminal without any syntax highlighting but, on the bright side, I am not that distracted anymore.
 
 # The Start
 
