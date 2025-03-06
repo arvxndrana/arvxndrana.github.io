@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/arvind/Projects/arvind-blog",
+	"sourceRoot": "/home/arvind/Programming/arvxndrana.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
