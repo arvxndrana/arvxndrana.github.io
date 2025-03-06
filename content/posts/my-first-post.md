@@ -15,8 +15,9 @@ Currently, I am learning Computer Science Introduction by OSSU.
 - Coding and Programming
 - Reading Books and Novels
 - Writing Blogs
-- Ricing Linux
+- Watching Youtube videos
 - Learning to use new software
+- Listening to Philosophical ideas
 
 # Goals:
 
