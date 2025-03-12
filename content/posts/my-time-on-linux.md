@@ -165,6 +165,6 @@ This is going to change from today as I am a quarter of my first [Computer Scien
 
 Thanks for reading.
 
-And around 4-5 days, I reverted back to i3 as my primary window manager.
+And around 4-5 days (As of 2025-03-12), I reverted back to i3 as my primary window manager.
 
 I am so indecisive.
