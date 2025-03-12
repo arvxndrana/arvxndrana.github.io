@@ -164,3 +164,7 @@ I am still very young and can learn things that I am supposed to at my own pace.
 This is going to change from today as I am a quarter of my first [Computer Science Course](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/) by OSSU. and I hope to be consistent at it.
 
 Thanks for reading.
+
+And around 4-5 days, I reverted back to i3 as my primary window manager.
+
+I am so indecisive.
