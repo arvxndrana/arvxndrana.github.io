@@ -24,8 +24,8 @@ Currently, I am learning Computer Science Introduction by OSSU.
 - [ ] Be fit and healthy both physically and mentally.
 - [ ] Complete Computer Science Intro Course by OSSU.
 - [ ] Learn Python Programming Basics.
-- [ ] Learn Git Basics.
-- [ ] Read 2 books in 2 months.
+- [x] Learn Git Basics.
+- [x] Read 2 books in 2 months.
 
 # Contact Me:
 [Github](https://github.com/arvxndrana)

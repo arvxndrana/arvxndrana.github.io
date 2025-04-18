@@ -161,10 +161,24 @@ So, All I can say is that, while, I didn't learn anything from these 2 and a hal
 
 I am still very young and can learn things that I am supposed to at my own pace. I think that while my linux journey taught me to not be scared to explore new things, I still spend more time caring about the aesthetics rather than functionality of my laptop.
 
-This is going to change from today as I am a quarter of my first [Computer Science Course](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/) by OSSU. and I hope to be consistent at it.
-
 Thanks for reading.
 
-And around 4-5 days (As of 2025-03-12), I reverted back to i3 as my primary window manager.
+[Update: 2025-03-12]
+
+And around 4-5 days, I reverted back to i3 as my primary window manager.
 
 I am so indecisive.
+
+[Update: 2025-4-4]
+
+Jumping from one distro to another yet again, Some of my achievements are managing to install Base Gentoo, which took a whole night to compile but, couldn't figure out how to make wifi work. I got to read the Gentoo's Installation Wiki though (about 75% of it).
+
+I also got to install Debian bare minimum but, same as Gentoo's installation, I couldn't figure out how to connect to wifi. I learned that the ISO provided on the Debian website to download does not have non-free software support and that you NEED to download the correct ISO file in order to make the wifi work (because of your network card's driver.)
+
+I also installed Void Linux and used it for some hour. It felt good but, lacked some things (that I forgot to about).
+
+Currently, I am using Windows 10 IoT LTSC and planning to change my Operating system to Arch Linux in the upcoming day of New Year of Nepal permanently.
+
+[Update: 2025-04-18]
+
+I now have settled in Arch Linux, doing my YouTube stuff in this operating system as soon as new year (of Nepal). I hope to never leave this operating system in the near future.
